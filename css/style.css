@@ -1,0 +1,25 @@
+.hidden{
+    display: none;
+
+}
+.harsh
+{
+ height: 200px;
+ width: 200px;  
+
+}
+img{
+    border-image-width: 20px;
+    border-style:solid;
+    float: right;
+    border-radius: 50%;
+}
+main{
+    background-color: rgb(159, 121, 63);
+}
+footer{
+    background-color: rgb(15, 163, 129);
+}
+header{
+    background-color: rgb(227, 170, 14);
+}
